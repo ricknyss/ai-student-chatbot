@@ -21,6 +21,9 @@ Python
 Streamlit  
 Groq API  
 LLaMA 3
+## 🚀 Live Demo
+
+[Try the AI Chatbot](https://ai-student-chatbot-nsj7jniegyspixjrk6vmpy.streamlit.app/)
 
 ## Run Locally
 
