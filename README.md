@@ -1,27 +1,31 @@
 # AI Student Chatbot 🤖
 
-A local AI chatbot built with **Python, Streamlit, and Ollama** that helps students understand computer science and AI/ML concepts.
+An AI chatbot for students built using:
+
+- Streamlit
+- Groq API
+- LLaMA 3 model
 
 ## Features
-- ChatGPT-style interface
-- Local AI model (no API needed)
-- Conversation memory
-- Fast lightweight models (phi3 / llama3)
 
-## Installation
+- Conversational AI
+- Remembers chat history
+- Fast responses using Groq
+- Simple UI
 
-Clone the repository:
+## Live Demo
 
-git clone https://github.com/ricknyss/ai-student-chatbot.git
+https://ai-student-chatbot.streamlit.app
 
-Go to project folder:
+## Tech Stack
 
-cd ai-student-chatbot
+Python  
+Streamlit  
+Groq API  
+LLaMA 3
 
-Install dependencies:
+## Run Locally
 
+```bash
 pip install -r requirements.txt
-
-Run the chatbot:
-
 streamlit run app.py
