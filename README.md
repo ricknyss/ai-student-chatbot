@@ -29,8 +29,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ## 🚀 Live Demo
 
-You can try the chatbot here:
-
-https://ai-student-chatbot-nsj7jniegyspixjrk6vmpy.streamlit.app/
+[Try the AI Chatbot](https://ai-student-chatbot-nsj7jniegyspixjrk6vmpy.streamlit.app/)
 
 This AI chatbot is deployed using **Streamlit Cloud** and powered by **Groq LLM API**.
