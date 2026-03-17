@@ -35,3 +35,4 @@ streamlit run app.py
 [Try the AI Chatbot](https://ai-student-chatbot-nsj7jniegyspixjrk6vmpy.streamlit.app/)
 
 This AI chatbot is deployed using **Streamlit Cloud** and powered by **Groq LLM API**.
+it hwlp to students to solve their queries 
