@@ -18,7 +18,7 @@ An AI chatbot for students built using:
 ## Tech Stack
 
 Python  
-Streamlit  
+Streamlit  !
 Groq API  
 LLaMA 3
 ## 🚀 Live Demo
